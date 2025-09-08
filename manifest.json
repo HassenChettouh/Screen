@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Video Screenshot",
+  "version": "1.0",
+  "description": "Capture des captures d'écran de vidéos.",
+  "permissions": [
+    "activeTab"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "icons": {
+    "16": "logoscreen.png",
+    "48": "logoscreen.png",
+    "128": "logoscreen.png"
+  }
+}
